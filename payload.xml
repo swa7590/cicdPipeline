@@ -1,0 +1,9 @@
+<Employee>
+	<EmpID>101</EmpID>
+	<EmpFName>Raju</EmpFName>
+	<EmpLName>K</EmpLName>
+	<EmpDOB>24/05/1995</EmpDOB>
+	<EmpAddr>KPHB</EmpAddr>
+	<EmpSalaryMonth>May</EmpSalaryMonth>
+	<EmpSalary>30000</EmpSalary>
+</Employee>
